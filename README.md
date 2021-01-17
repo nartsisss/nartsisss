@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/nartsisss/nartsisss/main/nartsiss.png)](https://nartsiss.xyz)
+[![Header](https://raw.githubusercontent.com/nartsisss/nartsisss/main/tyan.png)](https://nartsiss.xyz)
 
 ---
 ## Known laguages and tools:
