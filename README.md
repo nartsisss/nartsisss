@@ -15,6 +15,7 @@
 ![Redis](https://img.shields.io/badge/Redis-090909?style=for-the-badge&logo=redis&logoColor=red)
 ![Docker](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=docker&logoColor=blue)
 ![Gradle](https://img.shields.io/badge/Gradle-090909?style=for-the-badge&logo=gradle&logoColor=lightblue)
+
 ---
 ## Minecraft:
 ![Bukkit](https://img.shields.io/badge/Bukkit-090909?style=for-the-badge)
@@ -23,6 +24,7 @@
 ![Bungee](https://img.shields.io/badge/Bungeecord-090909?style=for-the-badge)
 ![Forge](https://img.shields.io/badge/Forge-090909?style=for-the-badge)
 ---
+
 ##Contacts:
-![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&link=https://t.me/nartsiss2020)
-![Vk](https://img.shields.io/badge/Vk-090909?style=for-the-badge&logo=vk&link=https://vk.me/nartsisss)
+![Telegram](https://img.shields.io/badge/click-Telegram-090909?style=for-the-badge&logo=telegram&link=https://vk.me/nartsisss&link=https://t.me/nartsiss2020)
+![Vk](https://img.shields.io/badge/click-Vk-090909?style=for-the-badge&logo=vk&link=https://vk.me/nartsisss&link=https://vk.me/nartsisss)
