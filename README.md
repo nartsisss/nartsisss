@@ -7,6 +7,7 @@
 ![Scala](https://img.shields.io/badge/Scala-090909?style=for-the-badge&logo=scala&logoColor=red)
 ![Dart](https://img.shields.io/badge/Dart-090909?style=for-the-badge&logo=dart&logoColor=097CDB)
 ![Flutter](https://img.shields.io/badge/Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
+![GoLang](https://img.shields.io/badge/Go-090909?style=for-the-badge&logo=go&logoColor=47C5FB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=typescript&logoColor=yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-090909?style=for-the-badge&logo=typescript&logoColor=blue)
 ![SQL](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=mysql&logoColor=lightblue)
