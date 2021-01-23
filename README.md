@@ -1,7 +1,7 @@
 [![Header](https://raw.githubusercontent.com/nartsisss/nartsisss/main/tyan.png)](https://nartsiss.xyz)
 
 ---
-## Known laguages and tools:
+## Known languages and tools:
 ![Java](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=java&logoColor=orange)
 ![Kotlin](https://img.shields.io/badge/Kotlin-090909?style=for-the-badge&logo=kotlin&logoColor=orange)
 ![Scala](https://img.shields.io/badge/Scala-090909?style=for-the-badge&logo=scala&logoColor=red)
