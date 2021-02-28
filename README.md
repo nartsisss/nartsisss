@@ -26,4 +26,4 @@
 ---
 ## Contacts:
 [![Vk](https://img.shields.io/badge/Вконтакте-090909?style=for-the-badge&logo=vk)](https://vk.me/nartsisss)
-[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/nartsiss2020)
+[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/narts1ss)
