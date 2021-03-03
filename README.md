@@ -1,4 +1,3 @@
-[![Header](https://raw.githubusercontent.com/nartsisss/nartsisss/main/tyan.png)](https://nartsiss.xyz)
 
 ---
 ## Known languages and tools:
