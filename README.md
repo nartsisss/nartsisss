@@ -24,5 +24,5 @@
 ![Forge](https://img.shields.io/badge/Forge-090909?style=for-the-badge)
 ---
 ## Contacts:
-[![Vk](https://img.shields.io/badge/Вконтакте-090909?style=for-the-badge&logo=vk)](https://vk.me/nartsisss)
-[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/narts1ss)
+[![Vk](https://img.shields.io/badge/Вконтакте-090909?style=for-the-badge&logo=vk)](https://vk.me/nartsiss)
+[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/nartsiss)
