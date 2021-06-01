@@ -22,6 +22,4 @@
 [![Vk](https://img.shields.io/badge/Вконтакте-090909?style=for-the-badge&logo=vk)](https://vk.me/nartsiss)
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/nartsiss)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nartsisss)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nartsisss)  
