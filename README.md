@@ -13,7 +13,7 @@
 ![Gradle](https://img.shields.io/badge/Gradle-090909?style=for-the-badge&logo=gradle&logoColor=lightblue)
 ---
 ## Minecraft:
-![Bukkit Spigot Paper](https://img.shields.io/badge/BSP-090909?style=for-the-badge)
+![BSP](https://img.shields.io/badge/Bukkit Spigot Paper-090909?style=for-the-badge)
 ![Bungee](https://img.shields.io/badge/Bungeecord-090909?style=for-the-badge)
 ![Forge](https://img.shields.io/badge/Forge-090909?style=for-the-badge)
 ![Sponge](https://img.shields.io/badge/Sponge-090909?style=for-the-badge)
